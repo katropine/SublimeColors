@@ -9,7 +9,7 @@ PHP:
 
 HTML:
 
-![Alt text](screenshots/DarkCold-html.png "DarkCold")
+![Alt text](screenshots/DarkCold-Html.png "DarkCold")
 
 
 License
