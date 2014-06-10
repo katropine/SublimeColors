@@ -1,5 +1,5 @@
-DarkCold (Dark) colorscheme for Sublime Text Editor
-=============
+DarkCold - Dark color scheme for Sublime Text Editor
+============= 
 
 Copy the theme file in ~/.config/sublime-text-2/Packages/Color Scheme - Default
 
