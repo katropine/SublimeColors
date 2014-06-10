@@ -3,7 +3,13 @@ DarkCold (Dark) colorscheme for Sublime Text Editor
 
 Copy the theme file in ~/.config/sublime-text-2/Packages/Color Scheme - Default
 
+PHP:
 
+![Alt text](https://github.com/katropine/SublimeColors/blob/master/screenshots/DarkCold-Php.png "DarkCold")
+
+HTML:
+
+![Alt text](https://github.com/katropine/SublimeColors/blob/master/screenshots/DarkCold-html.png "DarkCold")
 
 
 License
