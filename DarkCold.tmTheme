@@ -521,6 +521,17 @@
 			</dict>
 		</dict>
 		<dict>
+                      <key>name</key>
+                       <string>Operators</string>
+                       <key>scope</key>
+                       <string>keyword.operator</string>
+                       <key>settings</key>
+                       <dict>
+                            <key>foreground</key>
+                            <string>#999999</string>
+                        </dict>
+                </dict>
+		<dict>
 		  <key>name</key>
 		  <string>Meta Brace</string>
 		  <key>scope</key>
