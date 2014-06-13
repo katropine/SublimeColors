@@ -23,6 +23,8 @@
 				<string>#1B2D42</string>
 				<key>selection</key>
 				<string>#010101</string>
+				<key>selectionForeground</key>
+                                <string>#00FF00</string>
 			</dict>
 		</dict>
 		<dict>
